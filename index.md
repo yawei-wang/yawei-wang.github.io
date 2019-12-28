@@ -1,35 +1,22 @@
 ---
 layout: default
 section: home
-title: "Grace Liu: Homepage"
+title: "Yawei Wang: Homepage"
 ---
 <img src="static/info/profile.jpg" class="img-thumbnail" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
 
-# Guyue (Grace) Liu
+# Yawei Wang
 {% include social.html %}
 
 &nbsp;
 
-Welcome! I'm Guyue (Grace) Liu, a postdoc researcher at [Carnegie Mellon University](https://www.cmu.edu/) working with [Prof. Vyas Sekar](https://users.ece.cmu.edu/~vsekar/). I received my Ph.D. from [The George Washington University](http://www.gwu.edu/) in 2019 and I was advised by [Prof. Timothy Wood](http://faculty.cs.gwu.edu/~timwood/wiki/doku.php). Before that, I received my B.S. from [Beijing University of Posts and Telecommunications](http://english.bupt.edu.cn/) and [Queen Mary University of London](https://www.qmul.ac.uk/) in 2012.
+Welcome! I'm Yawei Wang, a 4th PhD candidate at [The George Washington University](http://www.gwu.edu/) working with [Xiuzhen Cheng](https://www.seas.gwu.edu/xiuzhen-susan-cheng). Before that, I received my B.S. from [Purdue University](https://www.purdue.edu/) in 2015.
 
 ### Research Interests
 
-* Networking, Distributed Systems, Cloud Computing, Edge Computing
-* Network Function Virtualization (NFV), The Internet of Things (IoT)
-
-&nbsp;
-
-## News
-  * May-2019: I have successfully defended my PhD thesis and I will join CMU as a postdoc researcher. 
-  * Sept-2018: Our work REINFORCE has been accepted to **CoNext 2018**.
-  * June-2018: I will be spending the summer at **Microsoft Research - Cambridge**.
-  * May-2018:  Our work Microboxes has been accepted to **SIGCOMM 2018**, see you in Budapest!
-  * Apr-2018:  Our paper on scalable memory reclamation has won the **Best Student Paper Award** of RTAS 2018!
-  * May-2017:  ONVM-Multi has been accepted to KBNets 2017! Try our [onvm-snort](https://github.com/sdnfv/onvm-snort).
-  * Aug-2016:  NetAlytics and SDNFV have been accepted to **Middleware 2016**, see you in Trento!
-  * May-2016:  [OpenNetVM](http://sdnfv.github.io/onvm/) has been accepted to HotMiddlebox 2016, I will be presenting it in Brazil!
-  * Apr-2016:  I will be doing a 2016 Summer Internship at **Hewlett Packard Labs**.
-  * Mar-2016:  I will be presenting our work NetAlytics at AT&T Research Academic Summit.
+* Artificial Intelligence
+* Internet of Things Security 
+* Security and Privacy in Social Networks 
 
 &nbsp;
 
